@@ -1,6 +1,5 @@
----
-
 **A Diffusion-Based Deep Learning Approach to Protoplanetary Disk Imaging**
+---
 
 Protoplanetary disks—the swirling cradles of planet formation—hold essential clues about the birth of planetary systems. However, images captured from telescopes are often marred by noise that obscures these delicate structures, making it challenging to extract meaningful scientific insights. This ongoing research explores a novel **diffusion-based deep learning framework** designed to **denoise protoplanetary disk observations** while preserving their intricate physical features.
 
